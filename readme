@@ -1,0 +1,2 @@
+This is whatsapp clone created with the help of mern stack. I am using pusher in this one instead of socket.io because it is more easy to use.
+It has not all the features of real whatsapp but some main features like chat feature, fetch data about the users etc.

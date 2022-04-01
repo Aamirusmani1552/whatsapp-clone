@@ -1,0 +1,24 @@
+{
+  "name": "whatsapp-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pusher/push-notifications-server": "^1.2.5",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-async-errors": "^3.1.1",
+    "http-status-codes": "^2.2.0",
+    "mongoose": "^6.2.7",
+    "nodemon": "^2.0.15",
+    "pusher": "^5.0.1"
+  }
+}
